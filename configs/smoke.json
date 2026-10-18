@@ -1,0 +1,14 @@
+{
+  "output_dir": "runs/smoke",
+  "data_dir": "data/smoke",
+  "train_size": 256,
+  "epochs": 100,
+  "max_steps": 20,
+  "grad_accum": 1,
+  "eval_every": 10,
+  "eval_examples": 64,
+  "checkpoint_every": 10,
+  "max_hours": 2,
+  "profile_steps": 10,
+  "intent_size": 64
+}

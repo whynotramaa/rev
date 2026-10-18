@@ -1,0 +1,205 @@
+snapshot mangopy/ToolRet-Queries @ b8c76ad3349ff17497b6bdb28bb5b8f61a0f6445
+Fetching 35 files:   0%|          | 0/35 [00:00<?, ?it/s]Fetching 35 files: 100%|██████████| 35/35 [00:00<00:00, 1170.57it/s]
+snapshot mangopy/ToolRet-Tools @ e06c38c75612b6536bd959e08cdd345894aba6a7
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 972.18it/s]
+snapshot withmartian/routerbench @ 784021482c3f320c6619ed4b3bb3b41a21424fcb
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 974.29it/s]
+snapshot facebook/anli @ 8e4813d81f46d313dac7892e1c28076917cfcdf9
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 884.38it/s]
+snapshot cais/mmlu @ c30699e8356da336a370243923dbaf21066bb9fe
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 701.86it/s]
+snapshot allenai/ai2_arc @ main
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 754.71it/s]
+snapshot allenai/winogrande @ 01e74176c63542e6b0bcb004dcdea22d94fb67b5
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 852.33it/s]
+snapshot Rowan/hellaswag @ 218ec52e09a7e7462a5400043bb9a69a41d06b76
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 982.96it/s]
+snapshot openai/gsm8k @ 740312add88f781978c0658806c59bc2815b9866
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1043.62it/s]
+snapshot xlangai/BRIGHT @ 3066d29c9651a576c8aba4832d249807b181ecae
+Fetching 24 files:   0%|          | 0/24 [00:00<?, ?it/s]Fetching 24 files: 100%|██████████| 24/24 [00:00<00:00, 1048.84it/s]
+fetching https://github.com/forecastingresearch/forecastbench-datasets.git @ da48cfb37d
+fetching https://github.com/google-deepmind/habermas_machine.git @ 7923b71966
+downloading https://storage.googleapis.com/habermas_machine/datasets/hm_all_candidate_comparisons.parquet
+{"event": "normalize", "builder": "bfcl", "catalog_id": 1, "dataset": "BFCL"}
+{"event": "normalize", "builder": "toolret", "catalog_id": 2, "dataset": "ToolRet"}
+{"family": "ToolRet-retrieval", "queries": 200, "requests": 202}
+{"family": "ToolRet-retrieval", "queries": 400, "requests": 405}
+{"family": "ToolRet-retrieval", "queries": 600, "requests": 605}
+{"family": "ToolRet-retrieval", "queries": 800, "requests": 807}
+{"family": "ToolRet-retrieval", "queries": 1000, "requests": 1011}
+{"family": "ToolRet-retrieval", "queries": 1200, "requests": 1222}
+{"family": "ToolRet-retrieval", "queries": 1400, "requests": 1422}
+{"family": "ToolRet-retrieval", "queries": 1600, "requests": 1622}
+{"family": "ToolRet-retrieval", "queries": 1800, "requests": 1822}
+{"family": "ToolRet-retrieval", "queries": 2000, "requests": 2022}
+{"family": "ToolRet-retrieval", "queries": 2200, "requests": 2222}
+{"family": "ToolRet-retrieval", "queries": 2400, "requests": 2422}
+{"family": "ToolRet-retrieval", "queries": 2600, "requests": 2622}
+{"family": "ToolRet-retrieval", "queries": 2800, "requests": 2826}
+{"family": "ToolRet-retrieval", "queries": 3000, "requests": 3027}
+{"family": "ToolRet-retrieval", "queries": 3200, "requests": 3227}
+{"family": "ToolRet-retrieval", "queries": 3400, "requests": 3427}
+{"family": "ToolRet-retrieval", "queries": 3600, "requests": 3629}
+{"family": "ToolRet-retrieval", "queries": 3800, "requests": 3834}
+{"family": "ToolRet-retrieval", "queries": 4000, "requests": 4034}
+{"family": "ToolRet-retrieval", "queries": 4200, "requests": 4239}
+{"family": "ToolRet-retrieval", "queries": 4400, "requests": 4447}
+{"family": "ToolRet-retrieval", "queries": 4600, "requests": 4654}
+{"family": "ToolRet-retrieval", "queries": 4800, "requests": 4858}
+{"family": "ToolRet-retrieval", "queries": 5000, "requests": 5063}
+{"family": "ToolRet-retrieval", "queries": 5200, "requests": 5265}
+{"family": "ToolRet-retrieval", "queries": 5400, "requests": 5465}
+{"family": "ToolRet-retrieval", "queries": 5600, "requests": 5665}
+{"family": "ToolRet-retrieval", "queries": 5800, "requests": 5867}
+{"family": "ToolRet-retrieval", "queries": 6000, "requests": 6068}
+{"family": "ToolRet-retrieval", "queries": 6200, "requests": 6269}
+{"family": "ToolRet-retrieval", "queries": 6400, "requests": 6469}
+{"family": "ToolRet-retrieval", "queries": 6600, "requests": 6669}
+{"family": "ToolRet-retrieval", "queries": 6800, "requests": 6869}
+{"family": "ToolRet-retrieval", "queries": 7000, "requests": 7069}
+{"family": "ToolRet-retrieval", "queries": 7200, "requests": 7269}
+{"family": "ToolRet-retrieval", "queries": 7400, "requests": 7470}
+{"family": "ToolRet-retrieval", "queries": 7600, "requests": 7671}
+{"family": "ToolRet-retrieval", "queries": 7800, "requests": 7871}
+{"family_complete": "ToolRet-retrieval", "queries": 7961, "requests": 8032, "fields": 254650, "oversized_candidates": 102, "queries_without_requests": 0, "queries_by_domain": {"apibank": 101, "apigen": 1000, "appbench": 32, "autotools-food": 22, "autotools-music": 32, "autotools-weather": 11, "craft-math-algebra": 280, "craft-tabmwp": 174, "craft-vqa": 200, "gorilla-huggingface": 500, "gorilla-pytorch": 43, "gorilla-tensor": 55, "gpt4tools": 32, "gta": 14, "metatool": 200, "mnms": 33, "restgpt-spotify": 40, "restgpt-tmdb": 54, "reversechain": 200, "rotbench": 550, "t-eval-dialog": 50, "t-eval-step": 50, "taskbench-daily": 40, "taskbench-huggingface": 23, "taskbench-multimedia": 40, "tool-be-honest": 350, "toolace": 1000, "toolalpaca": 94, "toolbench": 1100, "toolbench-sam": 197, "toolemu": 38, "tooleyes": 95, "toolink": 497, "toollens": 314, "ultratool": 500}, "mean_candidate_recall": 0.5817144292712688}
+{"event": "normalize", "builder": "apibank", "catalog_id": 3, "dataset": "API-Bank"}
+{"event": "normalize", "builder": "banking77", "catalog_id": 4, "dataset": "BANKING77"}
+{"event": "normalize", "builder": "clinc150", "catalog_id": 5, "dataset": "CLINC150+OOS"}
+{"event": "normalize", "builder": "routerbench", "catalog_id": 6, "dataset": "RouterBench"}
+{"event": "normalize", "builder": "home_appliance", "catalog_id": 9, "dataset": "Home appliance simulator"}
+{"event": "normalize", "builder": "sgd", "catalog_id": 10, "dataset": "SGD/SGD-X"}
+{"event": "normalize", "builder": "nli_documents", "catalog_id": 11, "dataset": "ContractNLI"}
+{"event": "normalize", "builder": "anli", "catalog_id": 12, "dataset": "ANLI"}
+{"event": "normalize", "builder": "bpomp", "catalog_id": 20, "dataset": "BPoMP"}
+{"event": "normalize", "builder": "humor_gpqa", "catalog_id": 21, "dataset": "Humicroedit"}
+{"event": "normalize", "builder": "pop909", "catalog_id": 22, "dataset": "POP909-CL"}
+{"event": "normalize", "builder": "cfcolor", "catalog_id": 23, "dataset": "cfcolor"}
+{"event": "normalize", "builder": "knowledge", "catalog_id": 24, "dataset": "MMLU"}
+{"event": "normalize", "builder": "reasoning_selection", "catalog_id": 30, "dataset": "GSM8K"}
+{"event": "normalize", "builder": "chessbench", "catalog_id": 31, "dataset": "ChessBench"}
+{"event": "normalize", "builder": "musr", "catalog_id": 32, "dataset": "MuSR"}
+{"event": "normalize", "builder": "sata", "catalog_id": 33, "dataset": "SATA-Bench"}
+{"event": "normalize", "builder": "simplebench", "catalog_id": 34, "dataset": "SimpleBench"}
+{"event": "normalize", "builder": "bright", "catalog_id": 36, "dataset": "BRIGHT"}
+{"family": "BRIGHT-retrieval", "queries": 200, "requests": 200}
+{"family": "BRIGHT-retrieval", "queries": 400, "requests": 400}
+{"family": "BRIGHT-retrieval", "queries": 600, "requests": 600}
+{"family": "BRIGHT-retrieval", "queries": 800, "requests": 800}
+{"family": "BRIGHT-retrieval", "queries": 1000, "requests": 1000}
+{"family": "BRIGHT-retrieval", "queries": 1200, "requests": 1200}
+{"family_complete": "BRIGHT-retrieval", "queries": 1384, "requests": 1384, "fields": 44286, "oversized_candidates": 2, "queries_without_requests": 0, "queries_by_domain": {"aops": 111, "biology": 103, "earth_science": 116, "economics": 103, "leetcode": 142, "pony": 112, "psychology": 101, "robotics": 101, "stackoverflow": 117, "sustainable_living": 108, "theoremqa_questions": 194, "theoremqa_theorems": 76}, "mean_candidate_recall": 0.21663576084599628}
+{"event": "normalize", "builder": "esci", "catalog_id": 37, "dataset": "Amazon ESCI"}
+{"event": "normalize", "builder": "acos", "catalog_id": 38, "dataset": "ACOS"}
+{"event": "normalize", "builder": "finentity", "catalog_id": 39, "dataset": "FinEntity"}
+{"event": "normalize", "builder": "isarcasm", "catalog_id": 40, "dataset": "iSarcasmEval"}
+{"event": "normalize", "builder": "vast_cladder", "catalog_id": 41, "dataset": "VAST"}
+{"event": "normalize", "builder": "forecastbench", "catalog_id": 48, "dataset": "ForecastBench"}
+{"event": "normalize", "builder": "habermas", "catalog_id": 50, "dataset": "Habermas Machine"}
+{"event": "pool_frozen", "catalog_id": 1, "dataset": "BFCL", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 1694, "selected_cases": 1694, "requests": 1694, "fields": 4768, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 2, "dataset": "ToolRet", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 7961, "selected_cases": 7961, "requests": 8032, "fields": 254650, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 3, "dataset": "API-Bank", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 508, "selected_cases": 508, "requests": 508, "fields": 508, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 4, "dataset": "BANKING77", "benchmark_origin": "Original-task benchmarks", "available_cases": 3080, "selected_cases": 3080, "requests": 3080, "fields": 3080, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 5, "dataset": "CLINC150+OOS", "benchmark_origin": "Original-task benchmarks", "available_cases": 5500, "selected_cases": 5500, "requests": 5500, "fields": 5500, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 6, "dataset": "RouterBench", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 29163, "selected_cases": 5001, "requests": 10000, "fields": 20000, "request_cap": 10000, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 9, "dataset": "Home appliance simulator", "benchmark_origin": "Purpose-built benchmarks", "available_cases": 160, "selected_cases": 160, "requests": 160, "fields": 2895, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 10, "dataset": "SGD/SGD-X", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 46116, "selected_cases": 2500, "requests": 2500, "fields": 2500, "request_cap": null, "case_cap": 2500}
+{"event": "pool_frozen", "catalog_id": 11, "dataset": "ContractNLI", "benchmark_origin": "Original-task benchmarks", "available_cases": 123, "selected_cases": 123, "requests": 123, "fields": 2091, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 12, "dataset": "ANLI", "benchmark_origin": "Original-task benchmarks", "available_cases": 3200, "selected_cases": 3200, "requests": 3200, "fields": 3200, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 20, "dataset": "BPoMP", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 22419, "selected_cases": 811, "requests": 5000, "fields": 5000, "request_cap": 5000, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 21, "dataset": "Humicroedit", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 2628, "selected_cases": 2628, "requests": 2628, "fields": 2628, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 22, "dataset": "POP909-CL", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 75582, "selected_cases": 2000, "requests": 2000, "fields": 2000, "request_cap": null, "case_cap": 2000}
+{"event": "pool_frozen", "catalog_id": 23, "dataset": "cfcolor", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 11821, "selected_cases": 5000, "requests": 5000, "fields": 5000, "request_cap": null, "case_cap": 5000}
+{"event": "pool_frozen", "catalog_id": 24, "dataset": "MMLU", "benchmark_origin": "Original-task benchmarks", "available_cases": 14042, "selected_cases": 14042, "requests": 14042, "fields": 14042, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 25, "dataset": "GPQA Diamond", "benchmark_origin": "Original-task benchmarks", "available_cases": 198, "selected_cases": 198, "requests": 198, "fields": 198, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 26, "dataset": "ARC-Easy", "benchmark_origin": "Original-task benchmarks", "available_cases": 2376, "selected_cases": 2376, "requests": 2376, "fields": 2376, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 27, "dataset": "ARC-Challenge", "benchmark_origin": "Original-task benchmarks", "available_cases": 1172, "selected_cases": 1172, "requests": 1172, "fields": 1172, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 28, "dataset": "WinoGrande", "benchmark_origin": "Original-task benchmarks", "available_cases": 1267, "selected_cases": 1267, "requests": 1267, "fields": 1267, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 29, "dataset": "HellaSwag", "benchmark_origin": "Original-task benchmarks", "available_cases": 10042, "selected_cases": 10042, "requests": 10042, "fields": 10042, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 30, "dataset": "GSM8K", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 1319, "selected_cases": 1319, "requests": 2638, "fields": 2638, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 31, "dataset": "ChessBench", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 61833, "selected_cases": 5000, "requests": 5000, "fields": 5000, "request_cap": null, "case_cap": 5000}
+{"event": "pool_frozen", "catalog_id": 32, "dataset": "MuSR", "benchmark_origin": "Original-task benchmarks", "available_cases": 756, "selected_cases": 756, "requests": 756, "fields": 756, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 33, "dataset": "SATA-Bench", "benchmark_origin": "Original-task benchmarks", "available_cases": 1650, "selected_cases": 1650, "requests": 1650, "fields": 15517, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 34, "dataset": "SimpleBench", "benchmark_origin": "Original-task benchmarks", "available_cases": 10, "selected_cases": 10, "requests": 10, "fields": 10, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 36, "dataset": "BRIGHT", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 1384, "selected_cases": 1384, "requests": 1384, "fields": 44286, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 37, "dataset": "Amazon ESCI", "benchmark_origin": "Original-task benchmarks", "available_cases": 638016, "selected_cases": 5000, "requests": 5000, "fields": 5000, "request_cap": null, "case_cap": 5000}
+{"event": "pool_frozen", "catalog_id": 38, "dataset": "ACOS", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 1399, "selected_cases": 1399, "requests": 5479, "fields": 318945, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 39, "dataset": "FinEntity", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 979, "selected_cases": 979, "requests": 979, "fields": 2129, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 40, "dataset": "iSarcasmEval", "benchmark_origin": "Original-task benchmarks", "available_cases": 4600, "selected_cases": 4600, "requests": 4600, "fields": 11600, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 41, "dataset": "VAST", "benchmark_origin": "Original-task benchmarks", "available_cases": 3006, "selected_cases": 3006, "requests": 3006, "fields": 3006, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 42, "dataset": "NLI4CT", "benchmark_origin": "Original-task benchmarks", "available_cases": 5500, "selected_cases": 5500, "requests": 5500, "fields": 5500, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 43, "dataset": "CRUXEval", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 570, "selected_cases": 570, "requests": 570, "fields": 570, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 44, "dataset": "CLadder", "benchmark_origin": "Original-task benchmarks", "available_cases": 10112, "selected_cases": 5000, "requests": 5000, "fields": 5000, "request_cap": null, "case_cap": 5000}
+{"event": "missing_normalized", "catalog_id": 45, "dataset": "HLE"}
+{"event": "pool_frozen", "catalog_id": 48, "dataset": "ForecastBench", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 10139, "selected_cases": 10139, "requests": 10139, "fields": 10139, "request_cap": null, "case_cap": null}
+{"event": "pool_frozen", "catalog_id": 50, "dataset": "Habermas Machine", "benchmark_origin": "Jev-adapted benchmarks", "available_cases": 1676, "selected_cases": 1676, "requests": 1676, "fields": 1676, "request_cap": null, "case_cap": null}
+{"event": "release_v2_cut", "requests": 124458, "sha256": "e27b04f213577b51682c1197af694bb24dd5acf89623358dc1cd7dcbed4bf24b", "toolret_requests": 1328, "bright_requests": 637, "byte_identical": false}
+snapshot TIGER-Lab/MMLU-Pro @ b189ec765aa7ed75c8acfea42df31fdae71f97be
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.96s/it]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.96s/it]
+fetching https://github.com/suzgunmirac/BIG-Bench-Hard @ 9ee07bd481
+snapshot nvidia/When2Call @ 0582f7749df63a96fdc3070932e83e72396ace53
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:03<00:00,  3.50s/it]Fetching 1 files: 100%|██████████| 1/1 [00:03<00:00,  3.50s/it]
+snapshot jmhessel/newyorker_caption_contest @ d81cbab7d0392708d5371d3a4960e69261824db4
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:03<00:00,  3.37s/it]Fetching 1 files: 100%|██████████| 1/1 [00:03<00:00,  3.37s/it]
+fetching https://github.com/ParticleMedia/RAGTruth @ c103204b9c
+fetching https://github.com/hover-nlp/hover @ 39b84697f1
+downloading https://nlp.cs.unc.edu/data/hover/wiki_wo_links.db
+snapshot AreLit/PhishNChips @ 89afcc39610084298c4679159cb2e27d9ffffa46
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:02<00:00,  2.15s/it]Fetching 1 files: 100%|██████████| 1/1 [00:02<00:00,  2.15s/it]
+fetching https://github.com/anisselbd/jev-phishing-bench @ 1d56e8c64d
+{"event": "added_benchmark", "catalog_id": 57, "dataset": "MMLU-Pro", "requests": 12032}
+{"event": "added_benchmark", "catalog_id": 58, "dataset": "BBH fixed-option tasks", "requests": 5507}
+{"event": "added_benchmark", "catalog_id": 62, "dataset": "When2Call MCQ", "requests": 3652}
+{"event": "added_benchmark", "catalog_id": 64, "dataset": "New Yorker caption matching", "requests": 528}
+{"event": "added_benchmark", "catalog_id": 59, "dataset": "RAGTruth response-level hallucination", "requests": 2700}
+{"event": "added_benchmark", "catalog_id": 61, "dataset": "HoVer claim verification", "requests": 4000}
+{"event": "added_benchmark", "catalog_id": 56, "dataset": "PhishNChips phishing decisions", "requests": 2000}
+{"event": "gsm8k_v3", "out": "/home/banana/Work/rev/bench/work/artifacts/benchmark-suite/release-v3-rebuilt/gsm8k-rows.jsonl.gz", "requests": 2638, "tracks": {"GSM8K-10choice": 1319, "GSM8K-4choice": 1319}, "answer_groups": 132, "gsm8k_sha256": "759334894858a37d6bd7bd07298eac8e55da236e31dad327ccd06a9979f4738a"}
+{
+  "edition": "0.3",
+  "release_v1": {
+    "work": "/home/banana/Work/rev/bench/work",
+    "out": "/home/banana/Work/rev/bench/work/artifacts/benchmark-suite/release-v1-rebuilt",
+    "requests": 131909,
+    "selected_cases": 117251,
+    "fields": 774689,
+    "selected_rows_sha256": "0c43dbde05351b6e061fdfea290c258a67308818544e23ce2ac4151b984b96be",
+    "expected_sha256": "288d37207a9581187bdf83eada1983aa63de6fc50b0108e2badb229547a57f99",
+    "byte_identical": false
+  },
+  "out": "/home/banana/Work/rev/bench/work/artifacts/benchmark-suite/release-v2-rebuilt",
+  "rows": {
+    "requests": 124458,
+    "sha256": "e27b04f213577b51682c1197af694bb24dd5acf89623358dc1cd7dcbed4bf24b",
+    "toolret_requests": 1328,
+    "bright_requests": 637
+  },
+  "rows_byte_identical": false,
+  "added": {
+    "requests": 30419,
+    "counts": {
+      "57": 12032,
+      "58": 5507,
+      "62": 3652,
+      "64": 528,
+      "59": 2700,
+      "61": 4000,
+      "56": 2000
+    },
+    "sha256": "7429f3c9cdddb772c1cfc42bb2a45e8516b0032152b746e6929f1c8b52f4ce89"
+  },
+  "added_byte_identical": true,
+  "gsm8k": {
+    "out": "/home/banana/Work/rev/bench/work/artifacts/benchmark-suite/release-v3-rebuilt/gsm8k-rows.jsonl.gz",
+    "requests": 2638,
+    "tracks": {
+      "GSM8K-10choice": 1319,
+      "GSM8K-4choice": 1319
+    },
+    "answer_groups": 132,
+    "gsm8k_sha256": "759334894858a37d6bd7bd07298eac8e55da236e31dad327ccd06a9979f4738a",
+    "expected_sha256": "759334894858a37d6bd7bd07298eac8e55da236e31dad327ccd06a9979f4738a",
+    "byte_identical": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "whynotramaa/rev-di",
+  "title": "rev-di",
+  "code_file": "rev-di.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "whynotramaa/decision-index-suite-03"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "whynotramaa/rev-train-resume"
+  ]
+}

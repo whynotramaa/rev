@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Decision model demo</title>
+<style>
+body{font:16px system-ui,sans-serif;max-width:850px;margin:2rem auto;padding:0 1rem;color:#18202b}textarea{box-sizing:border-box;width:100%;min-height:22rem;padding:.55rem;font:14px ui-monospace,monospace;border:1px solid #8793a2;border-radius:4px}button{padding:.55rem .8rem;margin:.6rem 0;font:inherit}output,pre{display:block;white-space:pre-wrap;background:#f2f5f7;padding:.8rem;border-radius:4px}
+</style>
+<main>
+<h1>Decision model</h1>
+<p>Send a request in the Perplexity Decisions format: a <code>state</code> and named <code>questions</code> of type <code>choice</code>, <code>noul</code>, or <code>score</code>.</p>
+<label for="request">Request</label>
+<textarea id="request" spellcheck="false">{
+  "state": {"ticket": "I was charged twice for order 1182 and need the extra charge refunded by Friday."},
+  "questions": {
+    "queue": {"type": "choice", "instructions": "Which team should handle this ticket?", "criteria": {"billing": "Charges and refunds", "support": "Technical integration errors", "sales": null}},
+    "deadline": {"type": "noul", "instructions": "Does the ticket include a deadline or time pressure?"},
+    "urgency": {"type": "score", "instructions": "How urgent is this ticket?", "criteria": ["Not urgent", "Inconvenient", "Blocking the customer"]}
+  }
+}</textarea>
+<button id="run" type="button">Decide</button><output id="status" aria-live="polite"></output><pre id="result" aria-live="polite"></pre>
+</main>
+<script>
+document.querySelector('#run').onclick=async()=>{const status=document.querySelector('#status'),out=document.querySelector('#result');status.textContent='Running…';out.textContent='';try{const response=await fetch('/v1/decisions',{method:'POST',headers:{'Content-Type':'application/json'},body:document.querySelector('#request').value});const data=await response.json();if(!response.ok)throw new Error(data.error?.message||`HTTP ${response.status}`);status.textContent='Done';out.textContent=JSON.stringify(data,null,2)}catch(error){status.textContent='Request failed';out.textContent=error.message}};
+</script>
+</html>

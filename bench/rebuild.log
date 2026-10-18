@@ -1,0 +1,140 @@
+fetching https://github.com/gorilla-llm/gorilla.git @ 916260dfc1
+fetching https://github.com/mangopy/tool-retrieval-benchmark.git @ c4181d914a
+snapshot mangopy/ToolRet-Queries @ b8c76ad3349ff17497b6bdb28bb5b8f61a0f6445
+Fetching 35 files:   0%|          | 0/35 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 35 files:   3%|▎         | 1/35 [00:01<00:51,  1.53s/it]Fetching 35 files:   9%|▊         | 3/35 [00:01<00:14,  2.25it/s]Fetching 35 files:  20%|██        | 7/35 [00:01<00:05,  5.00it/s]Fetching 35 files:  26%|██▌       | 9/35 [00:02<00:05,  4.34it/s]Fetching 35 files:  29%|██▊       | 10/35 [00:02<00:05,  4.48it/s]Fetching 35 files:  43%|████▎     | 15/35 [00:03<00:02,  7.45it/s]Fetching 35 files:  49%|████▊     | 17/35 [00:03<00:03,  5.35it/s]Fetching 35 files:  51%|█████▏    | 18/35 [00:03<00:02,  5.71it/s]Fetching 35 files:  60%|██████    | 21/35 [00:04<00:01,  8.07it/s]Fetching 35 files:  66%|██████▌   | 23/35 [00:04<00:01,  8.30it/s]Fetching 35 files:  71%|███████▏  | 25/35 [00:05<00:01,  5.27it/s]Fetching 35 files:  77%|███████▋  | 27/35 [00:05<00:01,  6.35it/s]Fetching 35 files:  83%|████████▎ | 29/35 [00:05<00:00,  7.58it/s]Fetching 35 files:  89%|████████▊ | 31/35 [00:05<00:00,  8.07it/s]Fetching 35 files:  94%|█████████▍| 33/35 [00:06<00:00,  5.57it/s]Fetching 35 files:  97%|█████████▋| 34/35 [00:06<00:00,  5.90it/s]Fetching 35 files: 100%|██████████| 35/35 [00:06<00:00,  6.22it/s]Fetching 35 files: 100%|██████████| 35/35 [00:06<00:00,  5.48it/s]
+snapshot mangopy/ToolRet-Tools @ e06c38c75612b6536bd959e08cdd345894aba6a7
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files:  33%|███▎      | 1/3 [00:01<00:03,  1.68s/it]Fetching 3 files: 100%|██████████| 3/3 [00:01<00:00,  1.84it/s]Fetching 3 files: 100%|██████████| 3/3 [00:01<00:00,  1.52it/s]
+fetching https://github.com/AlibabaResearch/DAMO-ConvAI.git @ 188835d4f9
+downloading https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/master/banking_data/test.csv
+downloading https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/master/banking_data/categories.json
+downloading https://raw.githubusercontent.com/clinc/oos-eval/master/data/data_full.json
+snapshot withmartian/routerbench @ 784021482c3f320c6619ed4b3bb3b41a21424fcb
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:15<00:15, 15.21s/it]Fetching 2 files: 100%|██████████| 2/2 [00:28<00:00, 13.94s/it]Fetching 2 files: 100%|██████████| 2/2 [00:28<00:00, 14.14s/it]
+fetching https://github.com/google-research-datasets/dstc8-schema-guided-dialogue.git @ e852981ae3
+fetching https://github.com/stanfordnlp/contract-nli.git @ eced6528dd
+snapshot facebook/anli @ 8e4813d81f46d313dac7892e1c28076917cfcdf9
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files:  33%|███▎      | 1/3 [00:01<00:03,  1.86s/it]Fetching 3 files: 100%|██████████| 3/3 [00:02<00:00,  1.76it/s]Fetching 3 files: 100%|██████████| 3/3 [00:02<00:00,  1.43it/s]
+downloading https://zenodo.org/api/records/7299879/files/BPoMP_datasets_p1_out_of_3.json/content
+downloading https://zenodo.org/api/records/7299879/files/BPoMP_datasets_p2_out_of_3.json/content
+downloading https://zenodo.org/api/records/7299879/files/BPoMP_datasets_p3_out_of_3.json/content
+downloading https://cs.rochester.edu/u/nhossain/semeval-2020-task-7-dataset.zip
+fetching https://github.com/AndyWeasley2004/POP909-CL-Dataset.git @ be90943929
+downloading https://www.dgp.toronto.edu/~donovan/cfcolor/cfcolor.zip
+snapshot cais/mmlu @ c30699e8356da336a370243923dbaf21066bb9fe
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:02<00:00,  2.06s/it]Fetching 1 files: 100%|██████████| 1/1 [00:02<00:00,  2.06s/it]
+downloading https://github.com/idavidrein/gpqa/raw/main/dataset.zip
+snapshot allenai/ai2_arc @ main
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:01<00:01,  1.43s/it]Fetching 2 files: 100%|██████████| 2/2 [00:01<00:00,  1.48it/s]Fetching 2 files: 100%|██████████| 2/2 [00:01<00:00,  1.27it/s]
+snapshot allenai/winogrande @ 01e74176c63542e6b0bcb004dcdea22d94fb67b5
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.16s/it]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.16s/it]
+snapshot Rowan/hellaswag @ 218ec52e09a7e7462a5400043bb9a69a41d06b76
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.85s/it]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.85s/it]
+snapshot openai/gsm8k @ 740312add88f781978c0658806c59bc2815b9866
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]Fetching 1 files: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]
+fetching https://github.com/google-deepmind/searchless_chess.git @ 90ae0e6b12
+downloading https://storage.googleapis.com/searchless_chess/data/test/action_value_data.bag
+fetching https://github.com/Zayne-sprague/MuSR.git @ b1f4d4168a
+fetching https://github.com/sata-bench/sata-bench.git @ 371dd0c18f
+fetching https://github.com/simple-bench/SimpleBench.git @ fbc2e42908
+snapshot xlangai/BRIGHT @ 3066d29c9651a576c8aba4832d249807b181ecae
+Fetching 24 files:   0%|          | 0/24 [00:00<?, ?it/s]Fetching 24 files:   4%|▍         | 1/24 [00:02<01:01,  2.68s/it]Fetching 24 files:   8%|▊         | 2/24 [00:03<00:38,  1.76s/it]Fetching 24 files:  12%|█▎        | 3/24 [00:04<00:29,  1.38s/it]Fetching 24 files:  17%|█▋        | 4/24 [00:08<00:44,  2.22s/it]Fetching 24 files:  21%|██        | 5/24 [00:12<00:59,  3.13s/it]Fetching 24 files:  25%|██▌       | 6/24 [00:14<00:47,  2.64s/it]Fetching 24 files:  29%|██▉       | 7/24 [00:16<00:38,  2.25s/it]Fetching 24 files:  33%|███▎      | 8/24 [00:16<00:25,  1.60s/it]Fetching 24 files:  38%|███▊      | 9/24 [00:17<00:23,  1.60s/it]Fetching 24 files:  42%|████▏     | 10/24 [00:18<00:16,  1.21s/it]Fetching 24 files:  46%|████▌     | 11/24 [00:19<00:14,  1.15s/it]Fetching 24 files:  50%|█████     | 12/24 [00:19<00:10,  1.17it/s]Fetching 24 files:  54%|█████▍    | 13/24 [00:19<00:07,  1.45it/s]Fetching 24 files:  62%|██████▎   | 15/24 [00:20<00:05,  1.74it/s]Fetching 24 files:  67%|██████▋   | 16/24 [00:20<00:03,  2.07it/s]Fetching 24 files:  71%|███████   | 17/24 [00:21<00:02,  2.34it/s]Fetching 24 files:  79%|███████▉  | 19/24 [00:22<00:03,  1.57it/s]Fetching 24 files:  83%|████████▎ | 20/24 [00:23<00:02,  1.68it/s]Fetching 24 files:  88%|████████▊ | 21/24 [00:24<00:01,  1.50it/s]Fetching 24 files:  92%|█████████▏| 22/24 [00:24<00:01,  1.93it/s]Fetching 24 files:  96%|█████████▌| 23/24 [00:44<00:05,  5.93s/it]Fetching 24 files: 100%|██████████| 24/24 [00:49<00:00,  5.59s/it]Fetching 24 files: 100%|██████████| 24/24 [00:49<00:00,  2.06s/it]
+fetching https://github.com/amazon-science/esci-data.git @ 7916cdf6ab
+downloading https://media.githubusercontent.com/media/amazon-science/esci-data/7916cdf6ab75a462e77f20ab40428a10923998d5/shopping_queries_dataset/shopping_queries_dataset_examples.parquet
+downloading https://media.githubusercontent.com/media/amazon-science/esci-data/7916cdf6ab75a462e77f20ab40428a10923998d5/shopping_queries_dataset/shopping_queries_dataset_products.parquet
+fetching https://github.com/NUSTM/ACOS.git @ 45d179a3dc
+fetching https://github.com/yixuantt/FinEntity.git @ 3b6cedc548
+fetching https://github.com/iabufarha/iSarcasmEval.git @ dfc708b53b
+fetching https://github.com/emilyallaway/zero-shot-stance.git @ e7c4775182
+fetching https://github.com/ai-systems/Task-2-SemEval-2024.git @ 7f32fa6c7d
+fetching https://github.com/facebookresearch/cruxeval.git @ 190faf16d1
+fetching https://github.com/causalNLP/cladder.git @ 3d2d1169b4
+snapshot cais/hle @ 5a81a4c7271a2a2a312b9a690f0c2fde837e4c29
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/datasets/cais/hle/resolve/5a81a4c7271a2a2a312b9a690f0c2fde837e4c29/data/test-00000-of-00001.parquet'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/__main__.py", line 4, in <module>
+    main()
+    ~~~~^^
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/cli.py", line 339, in main
+    args.func(args)
+    ~~~~~~~~~^^^^^^
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/cli.py", line 69, in cmd_suite
+    print(json.dumps(rebuild.main(args.work, only=args.only, skip_download=args.skip_download, skip_normalize=args.skip_normalize, compare=args.compare, edition=args.edition), indent=2))
+                     ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/rebuild.py", line 51, in main
+    return main_v3(work, only, skip_download, skip_normalize, compare or compare_path, log, exclusions, editions.get(edition))
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/rebuild.py", line 83, in main_v3
+    result = main_v2(work, only, skip_download, skip_normalize, reference, log, exclusions)
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/rebuild.py", line 66, in main_v2
+    v1 = main_v1(work, base or None, skip_download, skip_normalize, None, log)
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/rebuild.py", line 99, in main_v1
+    acq.acquire(layout, numbers, log=log)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/acquire.py", line 145, in acquire
+    hf_fetch(destination(layout, key), repo, rev, patterns, log)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/banana/Work/rev/bench/decision-index/decision_index/suite/build/acquire.py", line 115, in hf_fetch
+    snapshot_download(repo, repo_type="dataset", revision=revision, allow_patterns=patterns, local_dir=str(dest))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/utils/_http.py", line 266, in _inner
+    return fn(*args, **kwargs)
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/_snapshot_download.py", line 532, in snapshot_download
+    hf_thread_map(
+    ~~~~~~~~~~~~~^
+        _inner_hf_hub_download,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        tqdm_class=tqdm_class,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/utils/tqdm.py", line 441, in hf_thread_map
+    results[future_to_index[future]] = future.result()
+                                       ~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 447, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 396, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/_snapshot_download.py", line 512, in _inner_hf_hub_download
+    hf_hub_download(  # type: ignore
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+        repo_id,
+        ^^^^^^^^
+    ...<14 lines>...
+        dry_run=dry_run,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/utils/_http.py", line 266, in _inner
+    return fn(*args, **kwargs)
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1026, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+        # Destination
+    ...<16 lines>...
+        dry_run=dry_run,
+    )
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1421, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/banana/Work/rev/bench/.venv/lib/python3.14/site-packages/huggingface_hub/file_download.py", line 1953, in _raise_on_head_call_error
+    raise head_call_error
+huggingface_hub.errors.GatedRepoError: 401 Client Error. (Request ID: Root=1-6ad3e372-1e6ebc1d41f98dea5b0873a7;7b81f871-c77b-4f9c-ac46-edd97a38f8ef)
+
+Cannot access gated repo for url https://huggingface.co/datasets/cais/hle/resolve/5a81a4c7271a2a2a312b9a690f0c2fde837e4c29/data/test-00000-of-00001.parquet.
+Access to dataset cais/hle is restricted. You must have access to it and be authenticated to access it. Please log in.
